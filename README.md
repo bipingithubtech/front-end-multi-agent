@@ -99,6 +99,3 @@ Backend Repository:
 https://github.com/bipingithubtech/multi-agent-backend
 ```
 
-## Author
-
-Bipin Joshi
