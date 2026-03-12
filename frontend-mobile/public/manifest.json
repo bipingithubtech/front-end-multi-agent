@@ -1,0 +1,21 @@
+{
+  "name": "synapse",
+  "short_name": "synapse",
+  "description": "Your personal AI assistant",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#2EC6FE",
+  "theme_color": "#8936FF",
+  "orientation": "any",
+  "dir": "auto",
+  "lang": "en-US",
+  "icons": [
+    {
+      "src": "/synapse_icon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
